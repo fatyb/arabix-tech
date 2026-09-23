@@ -66,7 +66,7 @@ export default async function HomePage({
               src="/images/stock/hero-cutout.webp"
               alt="An Arabix Tech curved LED display showcasing the brand, paired with a vehicle, illustrating showroom use"
               width={2400}
-              height={1467}
+              height={2069}
               sizes="(min-width: 1024px) 980px, 100vw"
               className="h-auto w-full drop-shadow-[0_30px_60px_rgba(11,28,46,0.6)]"
               priority
