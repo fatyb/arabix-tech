@@ -1,0 +1,216 @@
+{
+  "meta": {
+    "siteName": "Arabix Tech",
+    "titleSuffix": "Arabix Tech | LED & Digital Display Manufacturer, Dubai UAE"
+  },
+  "nav": {
+    "home": "Home",
+    "products": "Our Products",
+    "work": "Our Work",
+    "about": "About Us",
+    "contact": "Contact",
+    "getQuote": "Get a Quote",
+    "menu": "Menu",
+    "close": "Close"
+  },
+  "categories": {
+    "indoor": "Indoor LED Displays",
+    "outdoor": "Outdoor LED Displays",
+    "rental": "Rental LED Screens",
+    "transparent": "Transparent LED",
+    "video-wall": "Video Walls",
+    "signage": "Digital Signage Kiosks",
+    "interactive": "Interactive Displays"
+  },
+  "categoriesShort": {
+    "indoor": "Indoor",
+    "outdoor": "Outdoor",
+    "rental": "Rental",
+    "transparent": "Transparent",
+    "video-wall": "Video Wall",
+    "signage": "Signage",
+    "interactive": "Interactive"
+  },
+  "categoryBlurbs": {
+    "indoor": "Fine-pitch panels engineered for control rooms, retail and corporate interiors.",
+    "outdoor": "IP65-rated modules built for direct sun, rain and desert heat.",
+    "rental": "Lightweight, quick-lock cabinets for touring stages and live events.",
+    "transparent": "Glass-mounted mesh panels that keep storefronts and facades transparent.",
+    "video-wall": "Seamless large-format walls for command centers and lobbies.",
+    "signage": "Freestanding kiosks for wayfinding, menus and self-service.",
+    "interactive": "Touch-enabled displays for conferencing and collaborative work."
+  },
+  "applications": {
+    "retail": "Retail",
+    "corporate": "Corporate",
+    "events": "Events",
+    "transportation": "Transportation",
+    "hospitality": "Hospitality",
+    "government": "Government"
+  },
+  "home": {
+    "hero": {
+      "kicker": "Dubai, UAE — Display Technology Manufacturer",
+      "headline": "Precision engineering that commands attention.",
+      "sub": "Arabix Tech designs, manufactures and installs LED video walls, digital signage and interactive displays built to perform in the UAE's toughest environments — indoors, outdoors and everywhere between.",
+      "ctaPrimary": "View Products",
+      "ctaSecondary": "See Our Work"
+    },
+    "productsSection": {
+      "kicker": "Product Range",
+      "heading": "Engineered for every environment",
+      "sub": "From sub-2mm indoor fine pitch to IP65 outdoor billboards, every panel is built and tested to a single standard.",
+      "viewAll": "View All Products"
+    },
+    "whySection": {
+      "kicker": "Why Arabix Tech",
+      "heading": "Built on specification, not slogans",
+      "stats": [
+        { "value": "0.9mm", "label": "Minimum pixel pitch across our fine-pitch range" },
+        { "value": "IP65", "label": "Outdoor cabinet rating for dust and rain ingress" },
+        { "value": "24/7", "label": "Technical support and remote monitoring" },
+        { "value": "180+", "label": "Installations completed across the UAE" }
+      ]
+    },
+    "workSection": {
+      "kicker": "Featured Work",
+      "heading": "Deployed across the region",
+      "sub": "A selection of recent installations across retail, corporate, transportation and events.",
+      "viewAll": "View All Work"
+    },
+    "ctaBanner": {
+      "heading": "Want a display solution engineered for your space?",
+      "sub": "Talk to our technical team about pixel pitch, brightness and cabinet options for your project.",
+      "cta": "Talk to Our Team"
+    }
+  },
+  "products": {
+    "pageKicker": "Product Catalogue",
+    "pageHeading": "Our Products",
+    "pageIntro": "Every panel in our range is built in-house and tested against UAE climate conditions before it ships. Filter by category or application to find the right fit for your project.",
+    "filterCategory": "Category",
+    "filterApplication": "Application",
+    "all": "All",
+    "viewDetails": "View Details",
+    "resultsCount": "{count} products",
+    "noResults": "No products match these filters. Try clearing a filter.",
+    "clearFilters": "Clear Filters"
+  },
+  "product": {
+    "breadcrumbHome": "Home",
+    "breadcrumbProducts": "Products",
+    "specsHeading": "Specifications",
+    "specs": {
+      "pixelPitch": "Pixel Pitch",
+      "brightness": "Brightness",
+      "refreshRate": "Refresh Rate",
+      "resolutionModule": "Resolution / Module Size",
+      "viewingAngle": "Viewing Angle",
+      "ipRating": "IP Rating",
+      "lifespan": "Lifespan",
+      "powerConsumption": "Power Consumption",
+      "cabinetSize": "Cabinet Size / Weight"
+    },
+    "applicationsHeading": "Applications",
+    "datasheet": "Download Datasheet (PDF)",
+    "requestQuote": "Request a Quote",
+    "relatedHeading": "Related Products",
+    "placeholderNotice": "Placeholder product photography — replace with final assets.",
+    "spec": "Spec"
+  },
+  "work": {
+    "pageKicker": "Portfolio",
+    "pageHeading": "Our Work",
+    "pageIntro": "Installations across retail, corporate, transportation, hospitality and government projects in the UAE and wider region.",
+    "filterIndustry": "Industry",
+    "challengeHeading": "Challenge",
+    "solutionHeading": "Solution",
+    "resultsHeading": "Results",
+    "productsUsedHeading": "Products Used",
+    "viewCase": "View Case Study",
+    "closeCase": "Close",
+    "backToWork": "Back to Our Work"
+  },
+  "contact": {
+    "pageKicker": "Get in Touch",
+    "pageHeading": "Contact Us",
+    "pageIntro": "Tell us about your project and our technical team will respond with a proposal tailored to your space, budget and timeline.",
+    "form": {
+      "heading": "Request a Quote",
+      "name": "Full Name",
+      "company": "Company",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "productInterest": "Product Interest",
+      "productInterestPlaceholder": "Select a category",
+      "message": "Project Details",
+      "messagePlaceholder": "Tell us about your space, timeline and any specification requirements.",
+      "submit": "Submit Request",
+      "disclaimer": "This is a placeholder form. Submissions are not yet connected to a backend.",
+      "submitted": "Thank you — your request has been noted. Our team will be in touch shortly."
+    },
+    "info": {
+      "heading": "Company Information",
+      "addressLabel": "Address",
+      "address": "Warehouse 14, Al Quoz Industrial Area 3, Dubai, United Arab Emirates",
+      "phoneLabel": "Phone",
+      "emailLabel": "Email",
+      "whatsappLabel": "WhatsApp",
+      "whatsapp": "Chat with Us",
+      "hoursLabel": "Business Hours",
+      "hours": "Sunday – Thursday, 9:00 AM – 6:00 PM GST",
+      "mapNotice": "Map placeholder — embed will be added later."
+    }
+  },
+  "about": {
+    "pageKicker": "Who We Are",
+    "pageHeading": "About Arabix Tech",
+    "intro": "Arabix Tech is a UAE-based provider of advanced LED and LCD display solutions. We specialize in delivering high-performance digital signage systems for retail, hospitality and commercial environments.",
+    "introBody": "In a world where digital technology is rapidly evolving and visual imagery is paramount, Arabix Tech stands out as a leading specialist in providing state-of-the-art visual display solutions, including advanced LCD and LED screens. We offer more than just screens — we create stunning visual experiences that transform commercial and advertising spaces into vibrant, dynamic displays. By integrating cutting-edge global technologies with the highest standards of quality and durability, we meet our clients' aspirations with unmatched efficiency.",
+    "visionKicker": "Our Vision",
+    "visionHeading": "The most trusted name in smart display solutions",
+    "visionText": "To be the first choice and most trusted destination for smart display solutions, as well as LED and LCD screens, through continuous innovation and the delivery of visual quality that exceeds expectations.",
+    "missionKicker": "Our Mission",
+    "missionHeading": "Empowering brands to be seen",
+    "missionText": "Empowering businesses and companies to convey their messages and identities in the best possible way through advanced, reliable and eco-friendly products, backed by exceptional service.",
+    "whyKicker": "Why Choose Us",
+    "whyHeading": "Built for clarity, reliability and scale",
+    "why": [
+      {
+        "title": "Superior Precision and Clarity",
+        "body": "Vibrant colors and high brightness levels ensure content clarity in various settings, indoors and outdoors."
+      },
+      {
+        "title": "Diverse, Integrated Solutions",
+        "body": "A wide range of displays to meet every need — corporate, advertising facades, retail stores and conference rooms."
+      },
+      {
+        "title": "Efficiency and Smart Consumption",
+        "body": "Modern technologies ensuring optimized energy usage and 24/7 continuous operation."
+      },
+      {
+        "title": "High Reliability",
+        "body": "Displays designed to withstand the harshest environmental and operational conditions, offering a long service life."
+      }
+    ],
+    "warrantyKicker": "Our Commitment",
+    "warrantyHeading": "A 3-year warranty, backed by a dedicated team",
+    "warrantyText": "Choosing our LCD and LED screens marks the beginning of a long-term commitment. We offer more than state-of-the-art products — we provide complete peace of mind through a comprehensive 3-year warranty against manufacturing defects, backed by a dedicated maintenance team and a robust network for genuine spare parts.",
+    "quote": "With Arabix Tech... make your presence visible and bring your details to life.",
+    "cta": "Talk to Our Team"
+  },
+  "footer": {
+    "blurb": "Arabix Tech designs and manufactures LED video walls, digital signage and interactive displays for commercial and industrial projects across the UAE.",
+    "productsHeading": "Products",
+    "companyHeading": "Company",
+    "contactHeading": "Contact",
+    "rights": "All rights reserved.",
+    "placeholderNotice": "This site contains placeholder content for demonstration purposes."
+  },
+  "common": {
+    "placeholder": "Placeholder",
+    "readMore": "Read More",
+    "learnMore": "Learn More",
+    "backToTop": "Back to Top"
+  }
+}
